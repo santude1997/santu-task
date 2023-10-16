@@ -45,3 +45,4 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 # santu-task
+![output](https://github.com/santude1997/santu-task/assets/62021656/3fa2da2d-c51b-4001-b2ee-541736076bb5)
